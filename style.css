@@ -1,0 +1,28 @@
+h1{
+    color: rgb(242, 238, 239);
+}
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightslategray;
+}
+.intro img{
+    margin-right: 15px;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(242, 238, 239);
+}
+.navbar a{
+    margin: 0 15px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: lightslategray;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
